@@ -7,7 +7,10 @@
   "dependencies": {
     "async": "~0.2.8",
     "express": "^3.2.6",
+    "goo.gl": "^0.1.4",
     "ipware": "0.0.8",
+    "short-url": "0.0.1",
+    "shorturl": "0.0.3",
     "socket.io": "~0.9.14",
     "useragent": "^2.1.9"
   },
