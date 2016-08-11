@@ -1,6 +1,5 @@
 var express = require('express');
 var app = express();
-var shorturl = require('shorturl');
 var googl = require('goo.gl');
 googl.setKey('AIzaSyAmO8l8hUZqY192Wu-o-ghaoVpshcl8n8c');
 googl.getKey();
